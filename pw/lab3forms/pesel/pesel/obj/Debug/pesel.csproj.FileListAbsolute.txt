@@ -1,0 +1,9 @@
+C:\Users\raf79\source\repos\pesel\pesel\bin\Debug\pesel.exe.config
+C:\Users\raf79\source\repos\pesel\pesel\bin\Debug\pesel.exe
+C:\Users\raf79\source\repos\pesel\pesel\bin\Debug\pesel.pdb
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.csprojAssemblyReference.cache
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.Form1.resources
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.Properties.Resources.resources
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.csproj.GenerateResource.cache
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.exe
+C:\Users\raf79\source\repos\pesel\pesel\obj\Debug\pesel.pdb
