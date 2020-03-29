@@ -1,0 +1,10 @@
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.exe.config
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.exe
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.pdb
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.csprojAssemblyReference.cache
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Form1.resources
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Properties.Resources.resources
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.csproj.GenerateResource.cache
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.exe
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.pdb
+C:\Users\raf79\source\repos\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Form2.resources
