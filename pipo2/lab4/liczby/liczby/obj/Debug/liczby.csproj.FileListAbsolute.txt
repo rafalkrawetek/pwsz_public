@@ -1,0 +1,7 @@
+C:\Users\raf79\source\repos\liczby\liczby\bin\Debug\liczby.exe.config
+C:\Users\raf79\source\repos\liczby\liczby\bin\Debug\liczby.exe
+C:\Users\raf79\source\repos\liczby\liczby\bin\Debug\liczby.pdb
+C:\Users\raf79\source\repos\liczby\liczby\obj\Debug\liczby.csprojAssemblyReference.cache
+C:\Users\raf79\source\repos\liczby\liczby\obj\Debug\liczby.csproj.CoreCompileInputs.cache
+C:\Users\raf79\source\repos\liczby\liczby\obj\Debug\liczby.exe
+C:\Users\raf79\source\repos\liczby\liczby\obj\Debug\liczby.pdb
