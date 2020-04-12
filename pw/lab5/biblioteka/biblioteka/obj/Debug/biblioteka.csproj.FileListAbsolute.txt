@@ -1,0 +1,17 @@
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\biblioteka.exe.config
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\biblioteka.exe
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\MySql.Data.dll
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\Google.Protobuf.dll
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\Renci.SshNet.dll
+C:\Users\raf79\source\repos\biblioteka\biblioteka\bin\Debug\MySql.Data.xml
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.csprojAssemblyReference.cache
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.Form1.resources
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.Properties.Resources.resources
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.csproj.GenerateResource.cache
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.csproj.CopyComplete
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.exe
+C:\Users\raf79\source\repos\biblioteka\biblioteka\obj\Debug\biblioteka.pdb
